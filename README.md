@@ -3,11 +3,6 @@ IITG Batch 2021 Sem-II Time Table
 
 Welcome to the GitHub repository for the IITG Batch 2021 Sem-II Time Table website! This website is designed to provide a simplified and easy-to-understand time table for first-year B-Tech students at IIT Guwahati. The website includes a dynamic feature where you can enter your roll number, and it will display the time table for the current day or the next day based on the time.
 
-1.Table of Contents
-2.Introduction
-3.Features
-4.Usage
-5.Contributing
 || Introduction ||
 
 The time table provided to us as first-year B-Tech students at IIT Guwahati can often be confusing and time-consuming to navigate. To address this issue, we have created a simple and user-friendly website that presents the time table in a clear and organized manner. The website also includes a convenient feature that automatically displays the time table for the current day or the next day based on the time.
