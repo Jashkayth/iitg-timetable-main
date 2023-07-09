@@ -18,7 +18,7 @@ By entering your roll number, the website automatically determines the current d
 || Usage ||
 
 To use the dynamic time table feature, follow these steps:
-Visit the website: https://iitg-time-table-2021-batch-sem-ii.netlify.app/
+Visit the website: https://iitg-time-table-2022-batch-sem-ii.netlify.app/
 On the homepage, you will find an input field labeled "Enter Your Roll Number."
 Enter your roll number in the input field and press the "Submit" button.
 The website will determine the current day and time.
